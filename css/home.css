@@ -1,0 +1,18 @@
+body {
+    background-color: red;
+    color: greenyellow;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    font-size: 25px;
+}
+
+a {
+    color: greenyellow;
+    text-decoration: none;
+}
